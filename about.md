@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Statistician, modoller and science writer
+Statistician, modeller and science writer
 
 ### More Information
 
