@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Information
+======
+:email: <n.green@ucl.ac.uk>
+
 Education
 ======
 * MMATHSTAT University of Newcastle-Upon-Tyne 1997-2001
