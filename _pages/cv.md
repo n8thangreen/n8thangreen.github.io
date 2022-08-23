@@ -29,8 +29,7 @@ Work
 ======
 * May 2020 – present Senior Research Fellow, Department of Statistical Science, UCL
 * Sept 2013 – May 2020 Advanced Research Fellow, Imperial College London St Mary’s Campus, London
-* Oct 2012 – Sept 2013 Mathematical Modeller, Public Health England (PHE), Modelling and Health 
-	Economics Evaluation Unit, London
+* Oct 2012 – Sept 2013 Mathematical Modeller, Public Health England (PHE), Modelling and Health Economics Evaluation Unit, London
 * Feb 2010 – Dec 2011 Biostatistician Research Associate, University of Manchester, Northwest Institute for BioHealth Informatics (NIBHI)
 * May 2007 – Jan 2010 Mathematical Modeller, Defence Science and Technology Laboratory (Dstl), MoD, Porton Down
 * May 2006 – April 2007 Analyst, Dstl, MoD, Farnborough
@@ -104,8 +103,8 @@ Recent Invited Talks
 =====================
 * University of Sheffield, Doctoral Training Centre One-Day Workshop, Data Science in Health Economics, 2022
 * ICON internal webinar, novel methods for NMA, 2022
-*University of Liverpool, returning graduates, Statistical modelling for CBRN in Defence, 2016
-*UCL Health Data Science Masters 1999, 2000
+* University of Liverpool, returning graduates, Statistical modelling for CBRN in Defence, 2016
+* UCL Health Data Science Masters 1999, 2000
 * Societal Engagement Conference, Imperial College London, Experiences in Science Comedy, 2018
 
 Journal Reviewing
