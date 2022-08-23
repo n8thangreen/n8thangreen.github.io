@@ -16,6 +16,14 @@ Contact Information
 * https://n8thangreen.github.io/
 * https://github.com/n8thangreen
 
+Skills
+======
+* Bayesian Statistics
+* Health economics
+* Simulation
+* Survival analysis
+* R programming
+
 Education
 ==========
 * Ph.D in Applied Probability, University of Liverpool 2001-2005
@@ -43,17 +51,13 @@ Other Appointments and Affiliations
 * Royal Statistical Society Medical Section Committee Vice-Chair, April 2016-present
 * R for HTA Scientific Committee Member
 
-Skills
-======
-* Bayesian Statistics
-* Health economics
-* Simulation
-* Survival analysis
-* R programming
-
-
 R Programming
 ==============
+
+Packages
+--------
+* BCEA: [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html), [GitHub](https://github.com/n8thangreen/BCEA)
+* CEdecisiontree: [GitHub](https://github.com/Health-Economics-in-R/CEdecisiontree)
 
 Prizes, Awards and Other Honours
 ==================
@@ -65,15 +69,16 @@ Prizes, Awards and Other Honours
 
 Grants
 =======
+
 Awarded
 --------
 * 2006 Investigating Alternative Methods of Characterising Model Outcome Spaces for Analytical Assessment (internal: Dstl)
 * 2008 Knowledge Management Capability (KMC) Source Term Estimation Project (internal: MoD)
 * 2008 Applied Mathematical Sciences Institute (SAMSI), North Carolina, USA (external: National Science Foundation): Sequential Monte Carlo Methods
-* 2009 Refinement of the AEP-45 Correlation Algorithm (external: US DoD)
-* 2016, 2017 Training bursary (external: NCRM): Bayesian modelling using WinBUGS; Combining different level data sources
-* 2017 PPI LOL-lab outreach project, £5,000 (external: BRC): Science communication workshops and showcase
-* 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (external: MRC): ICL and Queen’s University Belfast
+* 2009 Refinement of the AEP-45 Correlation Algorithm (US DoD)
+* 2016, 2017 Training bursary (NCRM): Bayesian modelling using WinBUGS; Combining different level data sources
+* 2017 PPI LOL-lab outreach project, £5,000 (BRC): Science communication workshops and showcase
+* 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
 * 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute in Bayesian Health Economics
 
 Teaching
@@ -120,8 +125,9 @@ Journal Reviewing
 
 Mentoring and Supervision
 ==========================
+
 Doctoral
----------
+--------
 * 2020 – 2024 Survival analysis in health economics modelling, 2nd supervisor 
 
 Masters
