@@ -12,7 +12,7 @@ redirect_from:
 Contact Information
 ===================
 * <n.green@ucl.ac.uk>
- * Department of Statistical Science, University College London, 1-19 Torrington Pl London WC1E 7HB UK
+* Department of Statistical Science, University College London, 1-19 Torrington Place, London WC1E 7HB, UK
 * https://n8thangreen.github.io/
 * https://github.com/n8thangreen
 
