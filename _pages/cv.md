@@ -137,11 +137,11 @@ Masters
 
 Enterprise\External Engagement
 =======================================
-* 2010 Manchester Science Festival at Manchester Museum of Science and Industry
+* 2010 [Manchester Science Festival](https://www.scienceandindustrymuseum.org.uk/manchester-science-festival) at Manchester Museum of Science and Industry
 * 2010, 2011 Panel guest at the Manchester University Pathways postgraduate careers event
-* SciBar (Dec 2011), Bright Club (July 2011), Nerd Nite (2019), Science Show-Off (2019)
-* Statistical reviewer for the Before The Headlines initiative by the Science Media Centre (SMC).
-* 2013 "I’m a Scientist Get Me Out Of Here" participant
+* [SciBar](https://www.mmu.ac.uk/engage/what-we-do/scibar/) (Dec 2011), [Bright Club](https://www.ucl.ac.uk/culture/projects/bright-club) (July 2011), [Nerd Nite](https://london.nerdnite.com/) (2019), [Science Show-Off](http://www.scienceshowoff.org/) (2019)
+* Statistical reviewer for the Before The Headlines initiative by the [Science Media Centre (SMC)](https://www.sciencemediacentre.org/).
+* [2013 "I’m a Scientist Get Me Out Of Here" participant](https://imascientist.org.uk/)
 * 2015-2020 Imperial Festival volunteer
 * Associate Editor for Nature Scientific Reports.
 * RSS Discussion Meetings Medical section reviewer.
