@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Dr Nathan Green"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,8 +13,9 @@ Contact Information
 ===================
 * <n.green@ucl.ac.uk>
 * Department of Statistical Science, University College London, 1-19 Torrington Place, London WC1E 7HB, UK
-* https://n8thangreen.github.io/
-* https://github.com/n8thangreen
+* [https://n8thangreen.github.io/](https://n8thangreen.github.io/)
+* [https://github.com/n8thangreen](https://github.com/n8thangreen)
+I give this plugin two :+1:!
 
 Skills
 ======
@@ -26,21 +27,21 @@ Skills
 
 Education
 ==========
-* Ph.D in Applied Probability, University of Liverpool 2001-2005
+* *2001 - 2005* Ph.D in Applied Probability, University of Liverpool
   + Supervisor: Prof Damian Clancy
   + Thesis: Optimal Control of Some Epidemic Models Under Uncertainty
   + EPSRC funded
-* MMATHSTAT Masters Degree in Mathematics and Statistics, University of Newcastle-Upon-Tyne 1997-2001
+* *1997 - 2001* MMATHSTAT Masters Degree in Mathematics and Statistics, University of Newcastle-Upon-Tyne
   + 2:1
 
 Work
 ======
-* May 2020 – present Senior Research Fellow, Department of Statistical Science, UCL
-* Sept 2013 – May 2020 Advanced Research Fellow, Imperial College London St Mary’s Campus, London
-* Oct 2012 – Sept 2013 Mathematical Modeller, Public Health England (PHE), Modelling and Health Economics Evaluation Unit, London
-* Feb 2010 – Dec 2011 Biostatistician Research Associate, University of Manchester, Northwest Institute for BioHealth Informatics (NIBHI)
-* May 2007 – Jan 2010 Mathematical Modeller, Defence Science and Technology Laboratory (Dstl), MoD, Porton Down
-* May 2006 – April 2007 Analyst, Dstl, MoD, Farnborough
+* *May 2020 – present* Senior Research Fellow, Department of Statistical Science, UCL
+* *Sept 2013 – May 2020* Advanced Research Fellow, Imperial College London St Mary’s Campus, London
+* *Oct 2012 – Sept 2013* Mathematical Modeller, Public Health England (PHE), Modelling and Health Economics Evaluation Unit, London
+* *Feb 2010 – Dec 2011* Biostatistician Research Associate, University of Manchester, Northwest Institute for BioHealth Informatics (NIBHI)
+* *May 2007 – Jan 2010* Mathematical Modeller, Defence Science and Technology Laboratory (Dstl), MoD, Porton Down
+* *May 2006 – April 2007* Analyst, Dstl, MoD, Farnborough
 
 
 Other Appointments and Affiliations
@@ -61,29 +62,29 @@ Packages
 
 Prizes, Awards and Other Honours
 ==================
-* 2001 EPSRC PhD funding
-* 2011 Widening Participation Award Holder for the University of Manchester
-* 2011 British Science Association Media Fellow
 * 2018 ATHENA SWAN Public Engagement winner
 * 2018 Imperial College London Annual Awards Honourable Mention for Societal Engagement
+* 2011 Widening Participation Award Holder for the University of Manchester
+* 2011 British Science Association Media Fellow
+* 2001 EPSRC PhD funding
 
 Grants
 =======
 
 Awarded
 --------
-* 2006 Investigating Alternative Methods of Characterising Model Outcome Spaces for Analytical Assessment (internal: Dstl)
+* 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute in Bayesian Health Economics
+* 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
+* 2017 PPI LOL-lab outreach project, £5,000 (BRC): Science communication workshops and showcase
+* 2016, 2017 Training bursary (NCRM): Bayesian modelling using WinBUGS; Combining different level data sources
+* 2009 Refinement of the AEP-45 Correlation Algorithm (US DoD)
 * 2008 Knowledge Management Capability (KMC) Source Term Estimation Project (internal: MoD)
 * 2008 Applied Mathematical Sciences Institute (SAMSI), North Carolina, USA (external: National Science Foundation): Sequential Monte Carlo Methods
-* 2009 Refinement of the AEP-45 Correlation Algorithm (US DoD)
-* 2016, 2017 Training bursary (NCRM): Bayesian modelling using WinBUGS; Combining different level data sources
-* 2017 PPI LOL-lab outreach project, £5,000 (BRC): Science communication workshops and showcase
-* 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
-* 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute in Bayesian Health Economics
+* 2006 Investigating Alternative Methods of Characterising Model Outcome Spaces for Analytical Assessment (internal: Dstl)
 
 Teaching
 =========
-* 6/2022 Summer School in Bayesian Health Economics, Lausanne, Switzerland
+* June 2022 Summer School in Bayesian Health Economics, Lausanne, Switzerland
 January 2022 NERC Doctoral Training Program (DTP) UCL lecturer 
 * February 2020 African Institute for Mathematical Sciences (AIMS) lecturer, written and present module on statistical modelling of infectious diseases, Cameroon
 * 2018/2019, 2019/20 Module Lead and lecturer for Introduction to Bayesian Statistics in MSc in Epidemiology 
@@ -91,12 +92,12 @@ January 2022 NERC Doctoral Training Program (DTP) UCL lecturer
 * December 2019 Webinar lecturer, written and delivered a series on survival analysis in R for HTA for the King Hussain Hospital, Jordan
 * Imperial College’s summer school course on Infectious Disease Modelling, lecturer for heterogenous mixing module.
 * Write and mark exam for 3rd year BSc Epidemiology
-* 2016 Invited lecture for 3rd year BSc Epidemiology, Imperial College London
 * 2018 MSc in Epidemiology Dissertation presentation marker
 * Computational Medicine Module, Imperial project supervisor
 * Lecturer on ICL 4th year Medicine students Computational Medicine Module
 * MPH/MSc in Epidemiology practical Lead (Flu & TB practicals, principles and methods in epidemiology, 2015 Principles of Global Epidemiology), Imperial College London 
 * 2017, 2018  UCL MSc in Health Economics and Decision Science invited lecturer 
+* 2016 Invited lecture for 3rd year BSc Epidemiology, Imperial College London
 * 2016 Further R programming skills workshops, designed and presented, MSc in Public Health, Imperial 
 * Reaching Further program, Imperial schools outreach programme
 * 2015-2020 Imperial Summer School workshop lead
@@ -108,9 +109,9 @@ Recent Invited Talks
 =====================
 * University of Sheffield, Doctoral Training Centre One-Day Workshop, Data Science in Health Economics, 2022
 * ICON internal webinar, novel methods for NMA, 2022
+* Societal Engagement Conference, Imperial College London, Experiences in Science Comedy, 2018
 * University of Liverpool, returning graduates, Statistical modelling for CBRN in Defence, 2016
 * UCL Health Data Science Masters 1999, 2000
-* Societal Engagement Conference, Imperial College London, Experiences in Science Comedy, 2018
 
 Journal Reviewing
 ==================
@@ -146,6 +147,3 @@ Enterprise\External Engagement
 * Associate Editor for Nature Scientific Reports.
 * RSS Discussion Meetings Medical section reviewer.
 * UCL Department of Statistical Science podcast organiser/editor and weekly seminar co-organiser.
-
-Publications
-=============
