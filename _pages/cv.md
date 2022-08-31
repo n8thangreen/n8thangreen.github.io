@@ -11,11 +11,10 @@ redirect_from:
 
 Contact Information
 ===================
-* <n.green@ucl.ac.uk>
-* Department of Statistical Science, University College London, 1-19 Torrington Place, London WC1E 7HB, UK
-* [https://n8thangreen.github.io/](https://n8thangreen.github.io/)
-* [https://github.com/n8thangreen](https://github.com/n8thangreen)
-I give this plugin two :+1:!
+:envelope: <n.green@ucl.ac.uk>
+:round_pushpin: Department of Statistical Science, University College London, 1-19 Torrington Place, London WC1E 7HB, UK
+:house: [https://n8thangreen.github.io/](https://n8thangreen.github.io/)
+:octocat: [https://github.com/n8thangreen](https://github.com/n8thangreen)
 
 Skills
 ======
