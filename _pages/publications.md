@@ -7,13 +7,31 @@ author_profile: true
 
 # Journal papers
 
+## 2022
+* Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making (in press)
+
+* Jangmi Yang, Hae-Young Kim, Seup Park, Ilham Sentissi, **Nathan Green**, Byung Kwon Oh, Yujin Kim, Kyung Hyun Oh, Eunseong Paek, Young Joon Park, In-Hwan Oh, Seung Heon Lee (2022) Cost-effectiveness of a medication event monitoring system for tuberculosis management in Morocco, PLoS ONE, 17 (4)
+
+* **Nathan Green**, Fiacre Agossa, Boulais Yovogan, Richard Oxborough, Jovin Kitau, Pie Müller, Edi Constant, Mark Rowland, Emile FS Tchacaya, Koudou G Benjamin, Thomas S Churcher, Michael Betancourt, Ellie Sherrard-Smith (2022) An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying, PLoS ONE, 17 (3)
+
+* **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software (in press)
+
 ## 2021
+* Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12
+
 * Halliday A, Jain P, Hoang L, Parker R, Tolosa-Wright M, Masonou T, **Green N**, Boakye A, Takwoingi Y, Hamilton S, Mandagere V. New technologies for diagnosing active TB: the VANTDET diagnostic accuracy study.
-*	D Tordrup, C Bishop, **N Green**, C Pallito, Economic burden of Female Genital Mutilation in 27 high-prevalence countrie, BMJ Global [accepted]
-*	Gupta, R. K., Lule, S. A., Krutikov, M., Gosce, L., **Green, N.**, Southern, J., ... & Abubakar, I. (2021). Screening for tuberculosis among high-risk groups attending London Emergency Departments: A prospective observational study. European Respiratory Journal.
+
+* D Tordrup, C Bishop, **N Green**, C Pallito, Economic burden of Female Genital Mutilation in 27 high-prevalence countrie, BMJ Global [accepted]
+
+* Rishi K Gupta, Swaib A Lule, Maria Krutikov, Lara Gosce, **Nathan Green**, Jo Southern, Ambreen Imran, Robert W Aldridge, Heinke Kunst, Marc Lipman, William Lynn, Helen Burgess, Asif Rahman, Dee Menezes, Ananna Rahman, Simon Tiberi, Peter J White, Ibrahim Abubakar (2021). Screening for tuberculosis among high-risk groups attending London Emergency Departments: A prospective observational study. European Respiratory Journal.
 
 ## 2020
 * C Wloch, A Jan van Hoek, **N Green**, J Connelly, P Harrington, E Sheridan, J Wilson, T Lamagni (2020) Cost-benefit analysis of surveillance for surgical site infection following caesarean section, BMJ Open, 10(7).
+
+* Kavina Manalan, **Nathan Green**, Amber Arnold, Graham Cooke, Martin Dedicoat, Marc Lipman, Thomas Harrison, Onn Min Kon
+European Respiratory Journal 2020 56: 476; DOI: 10.1183/13993003.congress-2020.476
+
+* K Manalan, **N Green**, A Arnold, GS Cooke, M Dedicoat, M Lipman, A Loyse, T Harrison, OM Kon (2020) A cost comparison of amikacin therapy with bedaquiline, for drug resistant tuberculosis in the UK, Journal of Infection 80 (1), pp 38-41.
 
 ## 2019
 * A Halliday, P Jain, L Hoang, R Parker, M Tolosa-Wright, T Masonou, **N Green**, A Boakye, Y Takwoingi, S Hamilton (2019) Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET), Efficacy and Mechanism Evaluation.
@@ -21,8 +39,6 @@ author_profile: true
 * **N Green**, E Sherrard-Smith, C Tanton, P Sonnenberg, C H Mercer, and PJ White (2019) Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics, Scientific Reports Nature pp1-9:7070.
 
 * NR Naylor, KB Pouwels, R Hope, **N Green**, KL Henderson, GM Knight, R Atun, JV Robotham, SR Deeny (2019) The health and cost burden of antibiotic resistant and susceptible Escherichia coli bacteraemia in the English hospital setting: A national retrospective cohort study, PLoS ONE 14(9): e0221944.
-
-* K Manalan, **N Green**, A Arnold, GS Cooke, M Dedicoat, M Lipman, A Loyse, T Harrison, OM Kon (2019) A cost comparison of amikacin therapy with bedaquiline, for drug resistant tuberculosis in the UK, Journal of Infection.
 
 ## 2017
 * **N Green**, PJ White, i-sense EPSRC Annual Report 2016/17, The value of rapid influenza testing in a pandemic, i-sense Exploratory Project.
@@ -109,6 +125,8 @@ author_profile: true
 
 
 # Book reviews
+
+* Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2022) Journal of the Royal Statistical Society Series A, 185 (1), pp 426-427
 
 * Nonplussed - Mathematical Proof of Implausible Ideas, J. Havil, Mathematics Today magazine, June 2008, N. Green
 
