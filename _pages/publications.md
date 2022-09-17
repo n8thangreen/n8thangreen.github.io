@@ -10,18 +10,18 @@ author_profile: true
 ## 2022
 * Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making (in press)
 
-* Jangmi Yang, Hae-Young Kim, Seup Park, Ilham Sentissi, **Nathan Green**, Byung Kwon Oh, Yujin Kim, Kyung Hyun Oh, Eunseong Paek, Young Joon Park, In-Hwan Oh, Seung Heon Lee (2022) Cost-effectiveness of a medication event monitoring system for tuberculosis management in Morocco, PLoS ONE, 17 (4)
+* Jangmi Yang, Hae-Young Kim, Seup Park, Ilham Sentissi, **Nathan Green**, Byung Kwon Oh, Yujin Kim, Kyung Hyun Oh, Eunseong Paek, Young Joon Park, In-Hwan Oh, Seung Heon Lee (2022) Cost-effectiveness of a medication event monitoring system for tuberculosis management in Morocco, PLoS ONE, 17 (4) https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0267292
 
-* **Nathan Green**, Fiacre Agossa, Boulais Yovogan, Richard Oxborough, Jovin Kitau, Pie Müller, Edi Constant, Mark Rowland, Emile FS Tchacaya, Koudou G Benjamin, Thomas S Churcher, Michael Betancourt, Ellie Sherrard-Smith (2022) An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying, PLoS ONE, 17 (3)
+* **Nathan Green**, Fiacre Agossa, Boulais Yovogan, Richard Oxborough, Jovin Kitau, Pie Müller, Edi Constant, Mark Rowland, Emile FS Tchacaya, Koudou G Benjamin, Thomas S Churcher, Michael Betancourt, Ellie Sherrard-Smith (2022) An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying, PLoS ONE, 17 (3) https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0263446
 
 * **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software, 7(77), 4206, https://doi.org/10.21105/joss.04206
 
 ## 2021
-* Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12
+* Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12 https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06856-4
 
 * Halliday A, Jain P, Hoang L, Parker R, Tolosa-Wright M, Masonou T, **Green N**, Boakye A, Takwoingi Y, Hamilton S, Mandagere V. New technologies for diagnosing active TB: the VANTDET diagnostic accuracy study.
 
-* D Tordrup, C Bishop, **N Green**, C Pallito, Economic burden of Female Genital Mutilation in 27 high-prevalence countrie, BMJ Global [accepted]
+* D Tordrup, C Bishop, **N Green**, C Pallito, Economic burden of female genital mutilation in 27 high-prevalence countries, BMJ Global Health 2022;7:e004512. https://gh.bmj.com/content/7/2/e004512
 
 * Rishi K Gupta, Swaib A Lule, Maria Krutikov, Lara Gosce, **Nathan Green**, Jo Southern, Ambreen Imran, Robert W Aldridge, Heinke Kunst, Marc Lipman, William Lynn, Helen Burgess, Asif Rahman, Dee Menezes, Ananna Rahman, Simon Tiberi, Peter J White, Ibrahim Abubakar (2021). Screening for tuberculosis among high-risk groups attending London Emergency Departments: A prospective observational study. European Respiratory Journal.
 
