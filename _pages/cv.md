@@ -31,7 +31,7 @@ Education
   + Thesis: Optimal Control of Some Epidemic Models Under Uncertainty
   + EPSRC funded
 * *1997 - 2001* MMATHSTAT Masters Degree in Mathematics and Statistics, University of Newcastle-Upon-Tyne
-  + 2:1
+  + Grade 2:1
 
 Work
 ======
