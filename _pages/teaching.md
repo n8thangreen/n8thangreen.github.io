@@ -8,13 +8,13 @@ author_profile: true
 Teaching
 =========
 
-* June 2022 Summer School in Bayesian Health Economics, Lausanne, Switzerland
-January 2022 NERC Doctoral Training Program (DTP) UCL lecturer 
-* February 2020 African Institute for Mathematical Sciences (AIMS) lecturer, written and present module on statistical modelling of infectious diseases, Cameroon
-* 2018/2019, 2019/20 Module Lead and lecturer for Introduction to Bayesian Statistics in MSc in Epidemiology 
-* 16th – 20th September 2019 Introduction to R, data visualisation and maps lecturer, written and delivered workshop for the Polio Eradication Initiative in Islamabad, Pakistan
-* December 2019 Webinar lecturer, written and delivered a series on survival analysis in R for HTA for the King Hussain Hospital, Jordan
-* Imperial College’s summer school course on Infectious Disease Modelling, lecturer for heterogenous mixing module.
+* June 2022 *Summer School in Bayesian Health Economics*, Lausanne, Switzerland
+* January 2022 *NERC Doctoral Training Program (DTP) lecturer*, UCL 
+* February 2020 *African Institute for Mathematical Sciences (AIMS) lecturer*, written and present module on statistical modelling of infectious diseases, Cameroon
+* 2018/2019, 2019/20 *Module Lead and lecturer for Introduction to Bayesian Statistics* in MSc in Epidemiology 
+* 16th – 20th September 2019 *Introduction to R, data visualisation and maps lecturer*, written and delivered workshop for the Polio Eradication Initiative in Islamabad, Pakistan
+* December 2019 *Webinar lecturer*, written and delivered a series on survival analysis in R for HTA for the King Hussain Hospital, Jordan
+* 2019 *Heterogenous mixing module lecturer*, Imperial College’s summer school course on Infectious Disease Modelling.
 * Write and mark exam for 3rd year BSc Epidemiology
 * 2018 MSc in Epidemiology Dissertation presentation marker
 * Computational Medicine Module, Imperial project supervisor
