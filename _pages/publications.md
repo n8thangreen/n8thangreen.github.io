@@ -23,7 +23,7 @@ author_profile: true
 
 * D Tordrup, C Bishop, **N Green**, C Pallito, Economic burden of female genital mutilation in 27 high-prevalence countries, BMJ Global Health 2022;7:e004512. https://gh.bmj.com/content/7/2/e004512
 
-* Rishi K Gupta, Swaib A Lule, Maria Krutikov, Lara Gosce, **Nathan Green**, Jo Southern, Ambreen Imran, Robert W Aldridge, Heinke Kunst, Marc Lipman, William Lynn, Helen Burgess, Asif Rahman, Dee Menezes, Ananna Rahman, Simon Tiberi, Peter J White, Ibrahim Abubakar (2021). Screening for tuberculosis among high-risk groups attending London Emergency Departments: A prospective observational study. European Respiratory Journal.
+* Gupta RK, Lule SA, Krutikov M, Gosce L, **Green N**, Southern J, Imran A, Aldridge RW, Kunst H, Lipman M, Lynn W, Burgess H, Rahman A, Menezes D, Rahman A, Tiberi S, White PJ, Abubakar I. Screening for tuberculosis among high-risk groups attending London emergency departments: a prospective observational study. Eur Respir J. 2021 Jun 24;57(6):2003831. doi: 10.1183/13993003.03831-2020. PMID: 33737408; PMCID: PMC8223173.
 
 ## 2020
 * C Wloch, A Jan van Hoek, **N Green**, J Connelly, P Harrington, E Sheridan, J Wilson, T Lamagni (2020) Cost-benefit analysis of surveillance for surgical site infection following caesarean section, BMJ Open, 10(7).
