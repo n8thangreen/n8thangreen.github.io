@@ -14,7 +14,7 @@ author_profile: true
 
 * **Nathan Green**, Fiacre Agossa, Boulais Yovogan, Richard Oxborough, Jovin Kitau, Pie Müller, Edi Constant, Mark Rowland, Emile FS Tchacaya, Koudou G Benjamin, Thomas S Churcher, Michael Betancourt, Ellie Sherrard-Smith (2022) An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying, PLoS ONE, 17 (3)
 
-* **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software (in press)
+* **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software, 7(77), 4206, https://doi.org/10.21105/joss.04206
 
 ## 2021
 * Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12
