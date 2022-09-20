@@ -16,6 +16,8 @@ author_profile: true
 
 * **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software, 7(77), 4206, https://doi.org/10.21105/joss.04206
 
+* **Nathan Green**, Felicity Lamrock, Nichola Naylor, Jack Williams, Andrew Briggs, Health Economic Evaluation using Markov Models in R for Microsoft Excel Users: A Tutorial, PharmacoEconomics (in press)
+
 ## 2021
 * Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12 https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06856-4
 
