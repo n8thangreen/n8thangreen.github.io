@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+* August 2022 - *PHEDS Open Science Summer School* invited lecturer, Unviversity of Sheffield
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
 * May 2022 - *Bayesian Health Economics in R* lecturer and organiser, UCL City Partnership funded workshop, Karolinska Institute, Stockholm, Sweden
 * January 2022 - *NERC Doctoral Training Program (DTP) lecturer*, UCL 
