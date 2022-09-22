@@ -7,6 +7,7 @@ author_profile: true
 
 
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
+* May 2022 - *Bayesian Health Economics in R* lecturer and organiser, UCL City Partnership funded workshop, Karolinska Institute, Stockholm, Sweden
 * January 2022 - *NERC Doctoral Training Program (DTP) lecturer*, UCL 
 * February 2020 - *African Institute for Mathematical Sciences (AIMS) lecturer*, written and present module on statistical modelling of infectious diseases, Cameroon
 * 2018/2019, 2019/20 - *Module Lead and lecturer for Introduction to Bayesian Statistics* in MSc in Epidemiology 
