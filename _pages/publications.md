@@ -18,6 +18,8 @@ author_profile: true
 
 * **Nathan Green**, Felicity Lamrock, Nichola Naylor, Jack Williams, Andrew Briggs, Health Economic Evaluation using Markov Models in R for Microsoft Excel Users: A Tutorial, PharmacoEconomics (in press)
 
+* Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs, Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics (in review)
+
 ## 2021
 * Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12 https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06856-4
 
