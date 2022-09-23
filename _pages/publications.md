@@ -30,12 +30,11 @@ author_profile: true
 * Gupta RK, Lule SA, Krutikov M, Gosce L, **Green N**, Southern J, Imran A, Aldridge RW, Kunst H, Lipman M, Lynn W, Burgess H, Rahman A, Menezes D, Rahman A, Tiberi S, White PJ, Abubakar I. Screening for tuberculosis among high-risk groups attending London emergency departments: a prospective observational study. Eur Respir J. 2021 Jun 24;57(6):2003831. doi: 10.1183/13993003.03831-2020. PMID: 33737408; PMCID: PMC8223173.
 
 ## 2020
-* C Wloch, A Jan van Hoek, **N Green**, J Connelly, P Harrington, E Sheridan, J Wilson, T Lamagni (2020) Cost-benefit analysis of surveillance for surgical site infection following caesarean section, BMJ Open, 10(7).
+* C Wloch, A Jan van Hoek, **N Green**, J Connelly, P Harrington, E Sheridan, J Wilson, T Lamagni (2020) Cost-benefit analysis of surveillance for surgical site infection following caesarean section, BMJ Open, 10(7). https://bmjopen.bmj.com/content/10/7/e036919
 
-* Kavina Manalan, **Nathan Green**, Amber Arnold, Graham Cooke, Martin Dedicoat, Marc Lipman, Thomas Harrison, Onn Min Kon
-European Respiratory Journal 2020 56: 476; DOI: 10.1183/13993003.congress-2020.476
+* Kavina Manalan, **Nathan Green**, Amber Arnold, Graham Cooke, Martin Dedicoat, Marc Lipman, Thomas Harrison, Onn Min Kon, A UK cost comparison of amikacin therapy with bedaquiline, for drug resistant tuberculosis, European Respiratory Journal 2020 56: 476; DOI: 10.1183/13993003.congress-2020.476. https://erj.ersjournals.com/content/56/suppl_64/476
 
-* K Manalan, **N Green**, A Arnold, GS Cooke, M Dedicoat, M Lipman, A Loyse, T Harrison, OM Kon (2020) A cost comparison of amikacin therapy with bedaquiline, for drug resistant tuberculosis in the UK, Journal of Infection 80 (1), pp 38-41.
+* K Manalan, **N Green**, A Arnold, GS Cooke, M Dedicoat, M Lipman, A Loyse, T Harrison, OM Kon (2020) A cost comparison of amikacin therapy with bedaquiline, for drug resistant tuberculosis in the UK, Journal of Infection 80 (1), pp 38-41. https://www.journalofinfection.com/article/S0163-4453(19)30277-4/fulltext
 
 ## 2019
 * A Halliday, P Jain, L Hoang, R Parker, M Tolosa-Wright, T Masonou, **N Green**, A Boakye, Y Takwoingi, S Hamilton (2019) Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET), Efficacy and Mechanism Evaluation.
