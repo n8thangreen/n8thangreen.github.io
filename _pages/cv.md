@@ -123,6 +123,10 @@ Journal Reviewing
 * The R Journal
 * The Journal of Statistical Software
 
+Conference Reviewing
+=====================
+* The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)
+
 Mentoring and Supervision
 ==========================
 
