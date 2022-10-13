@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2022 - *STAT0005* Probability and Statistics II, UCL
 * August 2022 - *NMA for sparse networks* lecturer, ICON consultancy internal training
 * August 2022 - *PHEDS Open Science Summer School* invited lecturer, Unviversity of Sheffield
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
