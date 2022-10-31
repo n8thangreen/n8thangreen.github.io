@@ -8,7 +8,7 @@ author_profile: true
 # Journal papers
 
 ## 2022
-* Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making (in press)
+* Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making  https://journals.sagepub.com/doi/epub/10.1177/0272989X221134545
 
 * Jangmi Yang, Hae-Young Kim, Seup Park, Ilham Sentissi, **Nathan Green**, Byung Kwon Oh, Yujin Kim, Kyung Hyun Oh, Eunseong Paek, Young Joon Park, In-Hwan Oh, Seung Heon Lee (2022) Cost-effectiveness of a medication event monitoring system for tuberculosis management in Morocco, PLoS ONE, 17 (4) https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0267292
 
