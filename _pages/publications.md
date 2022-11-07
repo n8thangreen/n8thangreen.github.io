@@ -16,7 +16,7 @@ author_profile: true
 
 * **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software, 7(77), 4206, https://doi.org/10.21105/joss.04206
 
-* **Nathan Green**, Felicity Lamrock, Nichola Naylor, Jack Williams, Andrew Briggs, Health Economic Evaluation using Markov Models in R for Microsoft Excel Users: A Tutorial, PharmacoEconomics (in press)
+* **Nathan Green**, Felicity Lamrock, Nichola Naylor, Jack Williams, Andrew Briggs (2022) Health Economic Evaluation using Markov Models in R for Microsoft Excel Users: A Tutorial, PharmacoEconomics https://link.springer.com/article/10.1007/s40273-022-01199-7
 
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs, Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics (in press)
 
