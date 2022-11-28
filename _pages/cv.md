@@ -115,11 +115,12 @@ Recent Invited Talks
 Journal Reviewing
 ==================
 * BMJ
-* Sensors
+* Value in Health
 * Medical Decision Making (MDM)
-* Journal of the Royal Society-Interface
+* Journal of the Royal Society - Interface
 * International Journal of Environmental Research and Public Health
 * Frontiers
+* Sensors
 * The R Journal
 * The Journal of Statistical Software
 
