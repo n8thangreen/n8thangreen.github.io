@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* November 2022 - *Uncertainty analysis is HTA modelling*, invited lecturer, MSc in Global Health Modelling, Oxford University
 * 2022 - *STAT0005* module, Probability and Statistics II, UCL
 * August 2022 - *NMA for sparse networks* lecturer, ICON consultancy internal training
 * August 2022 - *PHEDS Open Science Summer School* invited lecturer, Unviversity of Sheffield
