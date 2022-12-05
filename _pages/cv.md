@@ -72,7 +72,7 @@ Grants
 
 Awarded
 --------
-* 2022/23 Global Engagement Fund £3,167 (internal: UCL): Dealing with missing data in Gypsy, Roma, Traveller (GRT) population data sets, with the Sorbonnem, Paris, France.
+* 2022/23 Global Engagement Fund £3,167 (internal: UCL): Dealing with missing data in Gypsy, Roma, Traveller (GRT) population data sets, with the Sorbonne, Paris, France.
 * 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute in Bayesian Health Economics
 * 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
 * 2017 PPI LOL-lab outreach project, £5,000 (BRC): Science communication workshops and showcase
