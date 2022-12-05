@@ -5,13 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2023 - *Decision models* lecturer on Advanced Economic Evaluation MSc, UCL
+* 2023 - *STAT0003* module, Statistics BSc, UCL
+* February 2023 - *Bayesian statistics*, NERC Doctoral Training Program (DTP) lecturer, UCL
 * November 2022 - *Uncertainty analysis is HTA modelling*, invited lecturer, MSc in Global Health Modelling, Oxford University
-* 2022 - *STAT0005* module, Probability and Statistics II, UCL
+* 2022 - *STAT0005* module, Probability and Statistics II, Statistics BSc, UCL
 * August 2022 - *NMA for sparse networks* lecturer, ICON consultancy internal training
 * August 2022 - *PHEDS Open Science Summer School* invited lecturer, Unviversity of Sheffield
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
 * May 2022 - *Bayesian Health Economics in R* lecturer and organiser, UCL City Partnership funded workshop, Karolinska Institute, Stockholm, Sweden
-* January 2022 - *NERC Doctoral Training Program (DTP) lecturer*, UCL
+* January 2022 - *Bayesian statistics*, NERC Doctoral Training Program (DTP) lecturer, UCL
 * March 2021 - *Bayesian evidence synthesis and applications* guest lecturer, UCL MSc in Health Data Science
 * February 2020 - *African Institute for Mathematical Sciences (AIMS) lecturer*, written and present module on statistical modelling of infectious diseases, Cameroon
 * 2018/2019, 2019/20 - *Module Lead and lecturer for Introduction to Bayesian Statistics* in MSc in Epidemiology 
