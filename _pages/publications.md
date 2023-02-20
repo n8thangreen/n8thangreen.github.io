@@ -8,7 +8,7 @@ author_profile: true
 # Journal papers
 
 ## 2023
-* L Godoy, *N Green*, ... (2023) Phenotyping Superagers by Using Resting-state Functional Magnetic Resonance Imaging", AJNR. (in press)
+* L Godoy, **N Green**, ... (2023) Phenotyping Superagers by Using Resting-state Functional Magnetic Resonance Imaging", AJNR. (in press)
 
 ## 2022
 * Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making https://journals.sagepub.com/doi/epub/10.1177/0272989X221134545
