@@ -10,7 +10,7 @@ author_profile: true
 ## 2023
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs (2023) Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics 41(1):21-32 https://pubmed.ncbi.nlm.nih.gov/36437359/
 
-* L Godoy, **N Green**, ... (2023) Phenotyping Superagers by Using Resting-state Functional Magnetic Resonance Imaging", AJNR. (in press)
+* Phenotyping Superagers Using Resting-State fMRI, L.L. de Godoy, A. Studart-Neto, D.R. de Paula, **N. Green**, A. Halder, P. Arantes, K.T. Chaim, N.C. Moraes, M.S. Yassuda, R. Nitrini, M. Dresler, C. da Costa Leite, J. Panovska-Griffiths, A. Soddu, S. Bisdas, American Journal of Neuroradiology Mar 2023, DOI: 10.3174/ajnr.A7820
 
 ## 2022
 * Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making https://journals.sagepub.com/doi/epub/10.1177/0272989X221134545
