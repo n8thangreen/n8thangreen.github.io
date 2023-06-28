@@ -11,7 +11,7 @@ author_profile: true
 * November 2022 - *Uncertainty analysis is HTA modelling*, invited lecturer, MSc in Global Health Modelling, Oxford University
 * 2022 - *STAT0005* module tutor, Probability and Statistics II, Statistics BSc, UCL
 * August 2022 - *NMA for sparse networks* lecturer, ICON consultancy internal training
-* August 2022 - *PHEDS Open Science Summer School* invited lecturer, Unviversity of Sheffield
+* August 2022 - *PHEDS Open Science Summer School* invited lecturer, University of Sheffield
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
 * May 2022 - *Bayesian Health Economics in R* lecturer and organiser, UCL City Partnership funded workshop, Karolinska Institute, Stockholm, Sweden
 * January 2022 - *Bayesian statistics*, NERC Doctoral Training Program (DTP) lecturer, UCL
