@@ -10,9 +10,9 @@ author_profile: true
 ## 2023
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs (2023) Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics 41(1):21-32 https://pubmed.ncbi.nlm.nih.gov/36437359/
 
-* Phenotyping Superagers Using Resting-State fMRI, L.L. de Godoy, A. Studart-Neto, D.R. de Paula, **N. Green**, A. Halder, P. Arantes, K.T. Chaim, N.C. Moraes, M.S. Yassuda, R. Nitrini, M. Dresler, C. da Costa Leite, J. Panovska-Griffiths, A. Soddu, S. Bisdas, American Journal of Neuroradiology Mar 2023, DOI: 10.3174/ajnr.A7820
+* L.L. de Godoy, A. Studart-Neto, D.R. de Paula, **N. Green**, A. Halder, P. Arantes, K.T. Chaim, N.C. Moraes, M.S. Yassuda, R. Nitrini, M. Dresler, C. da Costa Leite, J. Panovska-Griffiths, A. Soddu, S. Bisdas (2023) Phenotyping Superagers Using Resting-State fMRI, American Journal of Neuroradiology, DOI: 10.3174/ajnr.A7820
 
-* A cost-effectiveness analysis of hypertrophic cardiomyopathy sudden cardiac death risk algorithms for implantable cardioverter defibrillator decision-making (2023) **Nathan Green**, Yang Chen, Constantinos O'Mahony, Perry M Elliott, Roberto Barriales-Villa, Lorenzo Monserrat, Aristides Anastasakis, Elena Biagini, Juan Ramon Gimeno, Giuseppe Limongelli et al.
+* **Nathan Green**, Yang Chen, Constantinos O'Mahony, Perry M Elliott, Roberto Barriales-Villa, Lorenzo Monserrat, Aristides Anastasakis, Elena Biagini, Juan Ramon Gimeno, Giuseppe Limongelli et al. (2023) A cost-effectiveness analysis of hypertrophic cardiomyopathy sudden cardiac death risk algorithms for implantable cardioverter defibrillator decision-making 
 European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehjqcco/qcad050
 
 ## 2022
