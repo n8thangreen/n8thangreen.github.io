@@ -12,6 +12,9 @@ author_profile: true
 
 * Phenotyping Superagers Using Resting-State fMRI, L.L. de Godoy, A. Studart-Neto, D.R. de Paula, **N. Green**, A. Halder, P. Arantes, K.T. Chaim, N.C. Moraes, M.S. Yassuda, R. Nitrini, M. Dresler, C. da Costa Leite, J. Panovska-Griffiths, A. Soddu, S. Bisdas, American Journal of Neuroradiology Mar 2023, DOI: 10.3174/ajnr.A7820
 
+* A cost-effectiveness analysis of hypertrophic cardiomyopathy sudden cardiac death risk algorithms for implantable cardioverter defibrillator decision-making (2023) **Nathan Green**, Yang Chen, Constantinos O'Mahony, Perry M Elliott, Roberto Barriales-Villa, Lorenzo Monserrat, Aristides Anastasakis, Elena Biagini, Juan Ramon Gimeno, Giuseppe Limongelli et al.
+European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehjqcco/qcad050
+
 ## 2022
 * Z Che, **N Green**, G Baio (2022) Blended Survival Curves: A New Approach to Extrapolation for Time-to-Event Outcomes from Clinical Trial in Health Technology Assessment, Journal of Medical Decision Making https://journals.sagepub.com/doi/epub/10.1177/0272989X221134545
 
