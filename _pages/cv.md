@@ -124,6 +124,7 @@ Journal Reviewing
 * Sensors
 * The R Journal
 * The Journal of Statistical Software
+* Applied Health Economics and Health Policy
 
 Conference Reviewing
 =====================
