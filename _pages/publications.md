@@ -7,6 +7,11 @@ author_profile: true
 
 # Journal papers
 
+## 2024
+* B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
+
+* Charnley G, **N Green** et al (2024) Evaluating the Risk of Conflict on Recent Ebola Outbreaks in Guinea and the Democratic Republic of the Congo, BMC Public Health (in press)
+
 ## 2023
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs (2023) Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics 41(1):21-32 https://pubmed.ncbi.nlm.nih.gov/36437359/
 
