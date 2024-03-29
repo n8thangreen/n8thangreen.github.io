@@ -12,7 +12,7 @@ author_profile: true
 
 * Charnley G, **N Green** et al (2024) Evaluating the Risk of Conflict on Recent Ebola Outbreaks in Guinea and the Democratic Republic of the Congo, BMC Public Health (in press)
 
-* Sushma Kavikondala, Katrin Haeussler, Xuan Wang, Mary T. Bausch-Jurken, Maria Nassim, Nitendra Kumar Mishra, Mia Malmenäs, Pawana Sharma, Nicolas Van de Velde, **Nathan Green** & Ekkehard Beck. Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Older Adults: Systematic Literature Review and Meta-Analysis Using the GRADE Framework. Infect Dis Ther (2024). https://doi.org/10.1007/s40121-024-00936-z
+* Sushma Kavikondala, Katrin Haeussler, Xuan Wang, Mary T. Bausch-Jurken, Maria Nassim, Nitendra Kumar Mishra, Mia Malmenäs, Pawana Sharma, Nicolas Van de Velde, **Nathan Green** & Ekkehard Beck (2024) Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Older Adults: Systematic Literature Review and Meta-Analysis Using the GRADE Framework. Infect Dis Ther. https://doi.org/10.1007/s40121-024-00936-z
   
 ## 2023
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs (2023) Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics 41(1):21-32 https://pubmed.ncbi.nlm.nih.gov/36437359/
