@@ -14,7 +14,7 @@ Contact Information
 :envelope: <n.green@ucl.ac.uk>\
 :round_pushpin: Department of Statistical Science, University College London, 1-19 Torrington Place, London WC1E 7HB, UK\
 :house: [https://n8thangreen.github.io/](https://n8thangreen.github.io/)\
-:octocat: [https://github.com/n8thangreen](https://github.com/n8thangreen)
+[![](../images/mark-github.svg)](https://github.com/n8thangreen) [https://github.com/n8thangreen](https://github.com/n8thangreen)
 
 Skills
 ======
