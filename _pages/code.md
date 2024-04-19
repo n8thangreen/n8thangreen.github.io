@@ -10,11 +10,7 @@ author_profile: true
   * [![GitHub](https://github.com/n8thangreen/n8thangreen.github.io/blob/master/images/mark-github.svg)](https://github.com/n8thangreen/BCEA), [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html)
 * __blendR__
   * Blend two survival curves together from one to the other according to some defined blending function.
-  * [![GitHub](https://github.com/primer/octicons/blob/main/icons/mark-github-16.svg)](https://github.com/StatisticsHealthEconomics/blendR)
-  * ![GitHub](https://github.com/primer/octicons/blob/main/icons/mark-github-16.svg) (https://github.com/StatisticsHealthEconomics/blendR)
-  * ![GitHub](../images/mark-github.svg)
-  * ![GitHub](./images/mark-github.svg)
-  * ![GitHub](images/mark-github.svg)
+  * [![GitHub](../images/mark-github.svg)](https://github.com/StatisticsHealthEconomics/blendR)
 * __CEdecisiontree__
   * Lightweight cost-effectiveness analysis using decision trees.
   * [![GitHub](https://github.com/primer/octicons/blob/main/icons/mark-github-16.svg)](https://github.com/Health-Economics-in-R/CEdecisiontree)
