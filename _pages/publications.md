@@ -10,7 +10,7 @@ author_profile: true
 ## 2024
 * B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
 
-* Charnley G, **N Green** et al (2024) Evaluating the Risk of Conflict on Recent Ebola Outbreaks in Guinea and the Democratic Republic of the Congo, BMC Public Health (in press)
+* Charnley, G.E.C., **Green, N.**, Kelman, I. et al. (2024) Evaluating the risk of conflict on recent Ebola outbreaks in Guinea and the Democratic Republic of the Congo. BMC Public Health 24, 860. https://doi.org/10.1186/s12889-024-18300-8
 
 * Sushma Kavikondala, Katrin Haeussler, Xuan Wang, Mary T. Bausch-Jurken, Maria Nassim, Nitendra Kumar Mishra, Mia Malmenäs, Pawana Sharma, Nicolas Van de Velde, **Nathan Green** & Ekkehard Beck (2024) Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Older Adults: Systematic Literature Review and Meta-Analysis Using the GRADE Framework. Infect Dis Ther. https://doi.org/10.1007/s40121-024-00936-z
   
