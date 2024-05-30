@@ -65,8 +65,10 @@ Grants
 
 Awarded
 --------
-* 2024 'Hack4HTA: Health technology assessment hackathon in R', £13,350, International Centre for Mathematical Sciences (ICMS) [strategic workshops](https://www.icms.org.uk/funding-opportunities/strategic-workshops)
-* 2024 Versus Arthritis Early Detection and Targeted Treatments 2024, ‘BAR-JDM: Baricitinib in Juvenile Dermatomyositis: A multi-centre open label, randomised, controlled, superiority trial’
+* 2024 'Hack4HTA: Health technology assessment hackathon in R', £13,350, International Centre for Mathematical Sciences (ICMS) [strategic workshops](https://www.icms.org.uk/funding-opportunities/strategic-workshops), project lead
+* 2024 Versus Arthritis Early Detection and Targeted Treatments 2024, ‘BAR-JDM: Baricitinib in Juvenile Dermatomyositis: A multi-centre open label, randomised, controlled, superiority trial’, project team
+* 2024 Carnegie Trust Research Incentive Grant, £13,893, 'Characterisation of Persistent Organic Pollutants in a high-latitude Scottish blanket peat bog', Co-PI
+
 * 2022/23 Global Engagement Fund £3,167 (internal: UCL): Dealing with missing data in Gypsy, Roma, Traveller (GRT) population data sets, with the Sorbonne, Paris, France.
 * 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute, Sweden in Bayesian Health Economics
 * 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
