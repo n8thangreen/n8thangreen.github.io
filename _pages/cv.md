@@ -42,7 +42,6 @@ Work
 * *May 2007 – Jan 2010* Mathematical Modeller, Defence Science and Technology Laboratory (Dstl), MoD, Porton Down
 * *May 2006 – April 2007* Analyst, Dstl, MoD, Farnborough
 
-
 Other Appointments and Affiliations
 =============
 
@@ -51,17 +50,11 @@ Other Appointments and Affiliations
 * Royal Statistical Society Medical Section Committee Vice-Chair, April 2016-present
 * R for HTA Scientific Committee Member
 
-R Programming
-==============
-
-Packages
---------
-* BCEA: [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html), [GitHub](https://github.com/n8thangreen/BCEA)
-* CEdecisiontree: [GitHub](https://github.com/Health-Economics-in-R/CEdecisiontree)
-
 Prizes, Awards and Other Honours
 ==================
-* 2018 ATHENA SWAN Public Engagement winner
+* 2024 Newham Policy Fellow as part of the [UCL Policy Fellowship Programme](https://www.ucl.ac.uk/public-policy/support/development-opportunities/fellowship-programme) to understand the factors that determine health literacy and their impact for Newham residents
+* 2023 Alumni Engagement Ideas Award winner at the [MAPS Faculty Awards](https://www.ucl.ac.uk/statistics/news/2024/feb/award-winning-staff-and-students-department-statistical-science)
+* 2018 ATHENA SWAN Public Engagement winner, Imperial College London
 * 2018 Imperial College London Annual Awards Honourable Mention for Societal Engagement
 * 2011 Widening Participation Award Holder for the University of Manchester
 * 2011 British Science Association Media Fellow
@@ -72,6 +65,8 @@ Grants
 
 Awarded
 --------
+* 2024 'Hack4HTA: Health technology assessment hackathon in R', £13,350, International Centre for Mathematical Sciences (ICMS) [strategic workshops](https://www.icms.org.uk/funding-opportunities/strategic-workshops)
+* 2024 Versus Arthritis Early Detection and Targeted Treatments 2024, ‘BAR-JDM: Baricitinib in Juvenile Dermatomyositis: A multi-centre open label, randomised, controlled, superiority trial’
 * 2022/23 Global Engagement Fund £3,167 (internal: UCL): Dealing with missing data in Gypsy, Roma, Traveller (GRT) population data sets, with the Sorbonne, Paris, France.
 * 2021 Cities partnerships Programme £1,400 (internal: UCL): Week-long workshop and networking at Karolinska Institute, Sweden in Bayesian Health Economics
 * 2018 GIDA Pump-Prime Fund: Health Economics hackathons, £24,000 (MRC): ICL and Queen’s University Belfast
@@ -85,7 +80,7 @@ Awarded
 Teaching
 =========
 * June 2022 Summer School in Bayesian Health Economics, Lausanne, Switzerland
-January 2022 NERC Doctoral Training Program (DTP) UCL lecturer 
+* January 2022 NERC Doctoral Training Program (DTP) UCL lecturer 
 * February 2020 African Institute for Mathematical Sciences (AIMS) lecturer, written and present module on statistical modelling of infectious diseases, Cameroon
 * 2018/2019, 2019/20 Module Lead and lecturer for Introduction to Bayesian Statistics in MSc in Epidemiology 
 * 16th – 20th September 2019 Introduction to R, data visualisation and maps lecturer, written and delivered workshop for the Polio Eradication Initiative in Islamabad, Pakistan
@@ -135,12 +130,13 @@ Mentoring and Supervision
 
 Doctoral
 --------
+* 2024 - present Population-level health decision-making under limited data constraints, 2nd supervisor
 * 2020 – 2024 Survival analysis in health economics modelling, 2nd supervisor 
 
 Masters
 --------
-* 2020 – present Masters summer projects 1st supervisor, UCL
-* 2015 – 2019 Masters summer projects 1st supervisor, Imperial College London
+* 2020 – present MSc summer projects 1st supervisor, UCL
+* 2015 – 2019 MSc summer projects 1st supervisor, Imperial College London
 
 Enterprise\External Engagement
 =======================================
