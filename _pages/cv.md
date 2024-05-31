@@ -142,12 +142,13 @@ Masters
 
 Enterprise\External Engagement
 =======================================
-* 2010 [Manchester Science Festival](https://www.scienceandindustrymuseum.org.uk/manchester-science-festival) at Manchester Museum of Science and Industry
-* 2010, 2011 Panel guest at the Manchester University Pathways postgraduate careers event
-* [SciBar](https://www.mmu.ac.uk/engage/what-we-do/scibar/) (Dec 2011), [Bright Club](https://www.ucl.ac.uk/culture/projects/bright-club) (July 2011), [Nerd Nite](https://london.nerdnite.com/) (2019), [Science Show-Off](http://www.scienceshowoff.org/) (2019)
-* Statistical reviewer for the Before The Headlines initiative by the [Science Media Centre (SMC)](https://www.sciencemediacentre.org/).
-* [2013 "I’m a Scientist Get Me Out Of Here" participant](https://imascientist.org.uk/)
-* 2015-2020 Imperial Festival volunteer
-* Associate Editor for Nature Scientific Reports.
+* UCL Department of Statistical Science [podcast](https://www.ucl.ac.uk/statistics/sample-space#:~:text=Latest%20articles-,Podcast,-Hosted%20by%20members) organiser/editor and weekly [seminar](https://www.ucl.ac.uk/statistics/statistics/seminar) co-organiser.
+* ['Data Detectives'](https://www.ucl.ac.uk/statistics/data-detectives) school outreach with UCL Department of Statistical Science
 * RSS Discussion Meetings Medical section reviewer.
-* UCL Department of Statistical Science podcast organiser/editor and weekly seminar co-organiser.
+* 2018 - 2020 Associate Editor for Nature Scientific Reports.
+* 2015 - 2020 Imperial Festival volunteer
+* [2013 "I’m a Scientist Get Me Out Of Here" participant](https://imascientist.org.uk/)
+* Statistical reviewer for the Before The Headlines initiative by the [Science Media Centre (SMC)](https://www.sciencemediacentre.org/).
+* [SciBar](https://www.mmu.ac.uk/engage/what-we-do/scibar/) (Dec 2011), [Bright Club](https://www.ucl.ac.uk/culture/projects/bright-club) (July 2011), [Nerd Nite](https://london.nerdnite.com/) (2019), [Science Show-Off](http://www.scienceshowoff.org/) (2019)
+* 2010, 2011 Panel guest at the Manchester University Pathways postgraduate careers event
+* 2010 [Manchester Science Festival](https://www.scienceandindustrymuseum.org.uk/manchester-science-festival) at Manchester Museum of Science and Industry
