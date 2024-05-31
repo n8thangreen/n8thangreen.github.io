@@ -109,6 +109,8 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 
 # Newspaper and magazine articles
 
+* Green N. Why your data viz needs alt text Significance 20(1):38-39 10 Feb 2023 [link](https://academic.oup.com/jrssig/article/20/1/38/7034177)
+
 * Gas! Gas! Gas! Hazard Management of a Covert Chemical Release on the Battlefield, Significance online (Royal Statistical Society), N. Green, September 26, 2012
 
 * Statistics Series Introduction, N. Green, The Guardian 2011 Dec 2 
