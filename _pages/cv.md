@@ -57,7 +57,7 @@ Prizes, Awards and Other Honours
 * 2018 ATHENA SWAN Public Engagement winner, Imperial College London
 * 2018 Imperial College London Annual Awards Honourable Mention for Societal Engagement
 * 2011 Widening Participation Award Holder for the University of Manchester
-* 2011 British Science Association Media Fellow
+* 2011 British Science Association [Media Fellow](https://www.britishscienceassociation.org/media-fellow-alumni)
 * 2001 EPSRC PhD funding
 
 Grants
@@ -146,7 +146,7 @@ Enterprise\External Engagement
 * RSS Discussion Meetings Medical section reviewer.
 * 2018 - 2020 Associate Editor for Nature Scientific Reports.
 * 2015 - 2020 Imperial Festival volunteer
-* [2013 "I’m a Scientist Get Me Out Of Here" participant](https://imascientist.org.uk/)
+* [2013 "I’m a Scientist Get Me Out Of Here"](https://imascientist.org.uk/) participant
 * Statistical reviewer for the Before The Headlines initiative by the [Science Media Centre (SMC)](https://www.sciencemediacentre.org/).
 * [SciBar](https://www.mmu.ac.uk/engage/what-we-do/scibar/) (Dec 2011), [Bright Club](https://www.ucl.ac.uk/culture/projects/bright-club) (July 2011), [Nerd Nite](https://london.nerdnite.com/) (2019), [Science Show-Off](http://www.scienceshowoff.org/) (2019)
 * 2010, 2011 Panel guest at the Manchester University Pathways postgraduate careers event
