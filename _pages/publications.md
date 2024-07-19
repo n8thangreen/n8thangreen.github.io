@@ -8,16 +8,16 @@ author_profile: true
 # Journal papers
 
 <!-- 
-* Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan, Rheumatology [in review] 
-
 * **Nathan Green** et al, A Bayesian hierarchical mixture cure modelling framework to utilize multiple survival datasets for long-term survivorship estimates: A case study from previously untreated metastatic melanoma, Statistics in Medicine [in review] 
 
-* Evidence synthesis in COPD: A tutorial on network meta-analysis for clinicians, K Husserl, **N Green** et al [in review]
+* Assessing the comparative effects of interventions in COPD: a tutorial on network meta-analysis for clinicians, K Husserl, **N Green** et al, Respiratory Research [in review]
 
 * A meta-analysis of prevalence of LVA and its association with SCD, systemic embolization and heart failure, C Maloney, **N Green** et al [in review]
 -->
 
 ## 2024
+* Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan, Rheumatology [accepted]
+
 * B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
 
 * Charnley, G.E.C., **Green, N.**, Kelman, I. et al. (2024) Evaluating the risk of conflict on recent Ebola outbreaks in Guinea and the Democratic Republic of the Congo. BMC Public Health 24, 860. https://doi.org/10.1186/s12889-024-18300-8
