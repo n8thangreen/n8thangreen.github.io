@@ -52,7 +52,7 @@ Other Appointments and Affiliations
 
 Prizes, Awards and Other Honours
 ==================
-* 2024 Newham Policy Fellow as part of the [UCL Policy Fellowship Programme](https://www.ucl.ac.uk/public-policy/support/development-opportunities/fellowship-programme) to understand the factors that determine health literacy and their impact for Newham residents
+* 2024 Newham Policy Fellow as part of the [UCL Policy Fellowship Programme](https://www.ucl.ac.uk/public-policy/support/development-opportunities/fellowship-programme) to understand the factors that determine health literacy and their impact for Newham residents, £15,635
 * 2023 Alumni Engagement Ideas Award winner at the [MAPS Faculty Awards](https://www.ucl.ac.uk/statistics/news/2024/feb/award-winning-staff-and-students-department-statistical-science)
 * 2018 ATHENA SWAN Public Engagement winner, Imperial College London
 * 2018 Imperial College London Annual Awards Honourable Mention for Societal Engagement
