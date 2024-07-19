@@ -81,7 +81,7 @@ Awarded
 Teaching
 =========
 * June 2022/23/24 Summer School in Bayesian Health Economics, Lausanne, Switzerland/Florence, Italy
-* January 2022 NERC Doctoral Training Program (DTP) UCL lecturer 
+* January 2022/23/24 NERC Doctoral Training Program (DTP) UCL lecturer 
 * February 2020 [African Institute for Mathematical Sciences (AIMS)](https://nexteinstein.org/) lecturer, written and present module on statistical modelling of infectious diseases, Cameroon
 * 2018/2019, 2019/20 Module Lead and lecturer for Introduction to Bayesian Statistics in MSc in Epidemiology 
 * 16th – 20th September 2019 Introduction to R, data visualisation and maps lecturer, written and delivered workshop for the Polio Eradication Initiative in Islamabad, Pakistan
