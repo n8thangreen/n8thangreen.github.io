@@ -126,6 +126,10 @@ Conference Reviewing
 =====================
 * The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)
 
+Book Reviewing
+===============
+* Taylor and Francis/CRC Press
+
 Mentoring and Supervision
 ==========================
 
