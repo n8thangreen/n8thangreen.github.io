@@ -16,7 +16,7 @@ author_profile: true
 -->
 
 ## 2024
-* Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan, Rheumatology [accepted]
+* Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan (2024) Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Rheumatology [accepted]
 
 * B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
 
