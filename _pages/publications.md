@@ -25,6 +25,8 @@ author_profile: true
 * Sushma Kavikondala, Katrin Haeussler, Xuan Wang, Mary T. Bausch-Jurken, Maria Nassim, Nitendra Kumar Mishra, Mia Malmenäs, Pawana Sharma, Nicolas Van de Velde, **Nathan Green** & Ekkehard Beck (2024) Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Older Adults: Systematic Literature Review and Meta-Analysis Using the GRADE Framework. Infect Dis Ther. https://doi.org/10.1007/s40121-024-00936-z
   
 ## 2023
+* **Green, N.**, Lamrock, F., Naylor, N., Williams J., Briggs A. (2023) Health Economic Evaluation Using Markov Models in R for Microsoft Excel Users: A Tutorial. PharmacoEconomics 41, 5–19. https://doi.org/10.1007/s40273-022-01199-7
+
 * Nichola R. Naylor, Jack Williams, **Nathan Green**, Felicity Lamrock, Andrew Briggs (2023) Extensions of Health Economic Evaluation in R for Microsoft Excel Users: A Tutorial for Incorporating Heterogeneity and Conducting Value of Information Analyses, PharmacoEconomics 41(1):21-32 https://pubmed.ncbi.nlm.nih.gov/36437359/
 
 * L.L. de Godoy, A. Studart-Neto, D.R. de Paula, **N. Green**, A. Halder, P. Arantes, K.T. Chaim, N.C. Moraes, M.S. Yassuda, R. Nitrini, M. Dresler, C. da Costa Leite, J. Panovska-Griffiths, A. Soddu, S. Bisdas (2023) Phenotyping Superagers Using Resting-State fMRI, American Journal of Neuroradiology, DOI: 10.3174/ajnr.A7820
@@ -40,8 +42,6 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 * **Nathan Green**, Fiacre Agossa, Boulais Yovogan, Richard Oxborough, Jovin Kitau, Pie Müller, Edi Constant, Mark Rowland, Emile FS Tchacaya, Koudou G Benjamin, Thomas S Churcher, Michael Betancourt, Ellie Sherrard-Smith (2022) An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying, PLoS ONE, 17 (3) https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0263446
 
 * **Nathan Green**, Anna Heath, Gianluca Baio (2022) BCEA: An R Package for Cost-Effectiveness Analysis, Journal of Open Source Software, 7(77), 4206, https://doi.org/10.21105/joss.04206
-
-* **Nathan Green**, Felicity Lamrock, Nichola Naylor, Jack Williams, Andrew Briggs (2022) Health Economic Evaluation using Markov Models in R for Microsoft Excel Users: A Tutorial, PharmacoEconomics https://link.springer.com/article/10.1007/s40273-022-01199-7
 
 ## 2021
 * Gina EC Charnley, Ilan Kelman, **Nathan Green**, Wes Hinsley, Katy AM Gaythorpe, Kris A Murray (2021) Exploring relationships between drought and epidemic cholera in Africa using generalised linear models, BMC infectious diseases 21 (1), pp 1-12 https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06856-4
