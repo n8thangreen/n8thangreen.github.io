@@ -103,11 +103,17 @@ Teaching
 
 Recent Invited Talks
 =====================
+<!-- * Newcastle-Upon-Tyne -->
+<!-- Prostate Cancer Conference, Prague, 2024 -->
 * University of Sheffield, Doctoral Training Centre One-Day Workshop, Data Science in Health Economics, 2022
 * ICON internal webinar, novel methods for NMA, 2022
 * Societal Engagement Conference, Imperial College London, Experiences in Science Comedy, 2018
 * University of Liverpool, returning graduates, Statistical modelling for CBRN in Defence, 2016
 * UCL Health Data Science Masters 1999, 2000
+
+Grant Reviewing
+===============
+* NIHR [Invention for Innovation (i4i)](https://www.nihr.ac.uk/explore-nihr/funding-programmes/invention-for-innovation.htm)
 
 Journal Reviewing
 ==================
