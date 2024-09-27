@@ -5,12 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2024 - STAT0006 *Regression Modelling*, Computer practicals lead, UCL
+* 2024 - *STAT0006 Regression Modelling*, Computer practicals lead, UCL
+* June 2024 - *Summer School in Bayesian Health Economics* lecturer, Florence, Italy
 * 2023 - *Decision models* lecturer on Advanced Economic Evaluation MSc, UCL
-* 2023 - *STAT0003* module tutor, Statistics BSc, UCL
+* 2023 - *STAT0003 Further Probability and Statistics* module tutor, Statistics BSc, UCL
+* June 2023 - *Summer School in Bayesian Health Economics* lecturer, Florence, Italy
 * February 2023 - *Bayesian statistics*, NERC Doctoral Training Program (DTP) lecturer, UCL
 * November 2022 - *Uncertainty analysis is HTA modelling*, invited lecturer, MSc in Global Health Modelling, Oxford University
-* 2022 - *STAT0005* module tutor, Probability and Statistics II, Statistics BSc, UCL
+* 2022 - *STAT0005 Probability and Statistics II* module tutor, Statistics BSc, UCL
 * August 2022 - *NMA for sparse networks* lecturer, ICON consultancy internal training
 * August 2022 - *PHEDS Open Science Summer School* invited lecturer, University of Sheffield
 * June 2022 - *Summer School in Bayesian Health Economics* lecturer and organiser, Lausanne, Switzerland
