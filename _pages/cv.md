@@ -141,6 +141,7 @@ Mentoring and Supervision
 
 Doctoral
 --------
+* 2024 - present Risk prediction modelling and variable selection, 2nd supervisor
 * 2024 - present Population-level health decision-making under limited data constraints, 2nd supervisor
 * 2020 – 2024 Survival analysis in health economics modelling, 2nd supervisor 
 
