@@ -93,7 +93,7 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 * CM Lowndes, E Sherrard-Smith, CE Dangerfield, YH Choi, **N Green**, M Jit, RD Marshall, C Mercer, E Harding-Esch, A Nardone, R Howell-Jones, J Bason, OA Johnson, CP Price, CA Gaydos, ST Sadiq, PJ White (2014) Point-of-care vs. Standard Practice for Chlamydia: A new approach to assessing the public health effect of rapid testing and treatment at local level. Lancet; 384: S47.
 
 ## 2011
-* JD Ainsworth, E Carruthers, P Couch, **N Green**, M O’Flaherty, M Sperrin, R Williams, Z Asghar, S Capewell, IE Buchan, (2011) IMPACT: A generic tool for modelling and simulating public health policy, Methods of Information in Medicine, (Vol. 50): Issue 5, pp. 454-463.
+* JD Ainsworth, E Carruthers, P Couch, **N Green**, M O’Flaherty, M Sperrin, R Williams, Z Asghar, S Capewell, IE Buchan, (2011) IMPACT: A generic tool for modelling and simulating public health policy, Methods of Information in Medicine, (Vol. 50): Issue 5, pp. 454-463. 10.3414/ME11-02-0006
 
 * **N Green**, ABC for Coronary Heart Disease Modelling, The 30th Leeds Annual Statistical Research Workshop (LASR) 5th-7th July 2011.
 
