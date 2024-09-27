@@ -66,7 +66,7 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 ## 2019
 * A Halliday, P Jain, L Hoang, R Parker, M Tolosa-Wright, T Masonou, **N Green**, A Boakye, Y Takwoingi, S Hamilton (2019) Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET), Efficacy and Mechanism Evaluation.
 
-* **N Green**, E Sherrard-Smith, C Tanton, P Sonnenberg, C H Mercer, and PJ White (2019) Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics, Scientific Reports Nature pp1-9:7070.
+* **N Green**, E Sherrard-Smith, C Tanton, P Sonnenberg, C H Mercer, and PJ White (2019) Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics, Scientific Reports Nature pp1-9:7070. 10.1038/s41598-019-43521-y
 
 * NR Naylor, KB Pouwels, R Hope, **N Green**, KL Henderson, GM Knight, R Atun, JV Robotham, SR Deeny (2019) The health and cost burden of antibiotic resistant and susceptible Escherichia coli bacteraemia in the English hospital setting: A national retrospective cohort study, PLoS ONE 14(9): e0221944.
 
