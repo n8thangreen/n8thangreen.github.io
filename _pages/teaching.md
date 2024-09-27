@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2024 - STAT0006 *Regression Modelling*, Computer practicals lead, UCL
 * 2023 - *Decision models* lecturer on Advanced Economic Evaluation MSc, UCL
 * 2023 - *STAT0003* module tutor, Statistics BSc, UCL
 * February 2023 - *Bayesian statistics*, NERC Doctoral Training Program (DTP) lecturer, UCL
