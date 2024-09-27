@@ -48,7 +48,7 @@ Other Appointments and Affiliations
 * HES STAR Associate Fellowship
 * Fellow of the Royal Statistical Society
 * Royal Statistical Society Medical Section Committee Vice-Chair, April 2016-present
-* R for HTA Scientific Committee Member
+* R for HTA Scientific Committee Member & Treasurer
 
 Prizes, Awards and Other Honours
 ==================
