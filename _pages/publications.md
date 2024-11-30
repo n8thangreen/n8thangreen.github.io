@@ -8,14 +8,14 @@ author_profile: true
 # Journal papers
 
 <!-- 
-* **Nathan Green** et al, A Bayesian hierarchical mixture cure modelling framework to utilize multiple survival datasets for long-term survivorship estimates: A case study from previously untreated metastatic melanoma, Statistics in Medicine [in review] 
-
-* Assessing the comparative effects of interventions in COPD: a tutorial on network meta-analysis for clinicians, K Husserl, **N Green** et al, Respiratory Research [in review]
+* **Nathan Green** et al, A Bayesian hierarchical mixture cure modelling framework to utilize multiple survival datasets for long-term survivorship estimates: A case study from previously untreated metastatic melanoma, Statistics in Medicine [in review]
 
 * A meta-analysis of prevalence of LVA and its association with SCD, systemic embolization and heart failure, C Maloney, **N Green** et al [in review]
 -->
 
 ## 2024
+* K Husserl, **N Green** et al (2024) Assessing the comparative effects of interventions in COPD: a tutorial on network meta-analysis for clinicians, Respiratory Research [in press]
+
 * Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan, Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Rheumatology, 2024;, keae392, https://doi.org/10.1093/rheumatology/keae392
 
 * B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
