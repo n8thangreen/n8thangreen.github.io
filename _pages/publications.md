@@ -14,11 +14,11 @@ author_profile: true
 -->
 
 ## 2024
-* Smith RA, Samyshkin Y, Mohammed W, F Lamrock, T Ward, J Smith, A Martin, P Schneider, D Lee, G Baio, H Thom, **N Green**, M Richardson, M El Alili, X Pouwels, C Lewis, B Deniz (2024) assertHE: an R package to improve quality assurance of HTA models. Wellcome Open Res 2024, 9:701 (https://doi.org/10.12688/wellcomeopenres.23180.1)
+* Smith RA, Samyshkin Y, Mohammed W, F Lamrock, T Ward, J Smith, A Martin, P Schneider, D Lee, G Baio, H Thom, **N Green**, M Richardson, M El Alili, X Pouwels, C Lewis, B Deniz (2024) assertHE: an R package to improve quality assurance of HTA models. Wellcome Open Res 2024, 9:701. https://doi.org/10.12688/wellcomeopenres.23180.1
   
-* K Husserl, **N Green** et al (2024) Assessing the comparative effects of interventions in COPD: a tutorial on network meta-analysis for clinicians, Respiratory Research [in press]
+* K. Husserl, A. S. Ismaila, M. Malmenäs, S. G. Noorduyn, **N. Green**, C. Compton, L. Thabane, C. F. Vogelmeier & D. M. G. Halpin (2024) Assessing the comparative effects of interventions in COPD: a tutorial on network meta-analysis for clinicians, Respir Res 25, 438. https://doi.org/10.1186/s12931-024-03056-x
 
-* Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan, Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Rheumatology, 2024;, keae392, https://doi.org/10.1093/rheumatology/keae392
+* Charalampia Papadopoulou, Neil Martin, Nadia Rafiq, Liza McCann, Giulia Varner, Kerstin Nott, Sandrine Compeyrot-Lacassagne, Maria Leandro, Charlene Foley, Kishore Warrier, **Nathan Green**, Mandy Wan, Hakim-Moulay Dehbi, John Whitehead, Despina Eleftheriou, Paul Brogan (2024) Elicitation of expert prior opinion to design the BARJDM trial in juvenile dermatomyositis, Rheumatology. https://doi.org/10.1093/rheumatology/keae392
 
 * B. Cavazzin, C. MacDonell, **N. Green**, J.J. Rothwell (2024) Air pollution biomonitoring in an urban-industrial setting (Taranto, Italy) using Mediterranean plant species, Atmospheric Pollution Research, Volume 15, Issue 6, 102105, ISSN 1309-1042, https://doi.org/10.1016/j.apr.2024.102105.
 
