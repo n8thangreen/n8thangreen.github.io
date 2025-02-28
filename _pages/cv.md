@@ -45,7 +45,7 @@ Work
 Other Appointments and Affiliations
 =============
 
-* Associate Fellowship Higher Education Academy (AFHEA)
+* Associate Fellowship of the Higher Education Academy (AFHEA)
 * Fellow of the Royal Statistical Society
 * Royal Statistical Society Medical Section Committee Vice-Chair, April 2016-present
 * R for HTA Scientific Committee Member & Treasurer
