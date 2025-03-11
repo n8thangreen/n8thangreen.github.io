@@ -164,6 +164,8 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 
 # Book reviews
 
+* **Nathan Green**, Research software engineering: A guide to the open source ecosystem by Matthias Bannert, Journal of the Royal Statistical Society Series A: Statistics in Society, 2025;, qnaf028, https://doi.org/10.1093/jrsssa/qnaf028
+  
 * Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2022) Journal of the Royal Statistical Society Series A, 185 (1), pp 426-427
 
 * Nonplussed - Mathematical Proof of Implausible Ideas, J. Havil, Mathematics Today magazine, June 2008, N. Green
