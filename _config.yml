@@ -190,6 +190,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /blog/:title/
 
 
 # Defaults
