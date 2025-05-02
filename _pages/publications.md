@@ -14,6 +14,8 @@ author_profile: true
 -->
 
 ## 2025
+* **Green N**, Manalan K, Hayama M, et al. Latent tuberculosis infection screening of adult close contacts: a cost-utility analysis. ERJ Open Res 2025; in press (https://doi.org/10.1183/23120541.00818-2024).
+
 * Xuan Wang, Ankit Pahwa, Mary T. Bausch-Jurken, Anushri Chitkara, Pawana Sharma, Mia Malmenäs, Sonam Vats, Michael Gordon Whitfield, Kira Zhi Hua Lai, Priyadarsini Dasari, Ritu Gupta, Maria Nassim, Nicolas Van de Velde, **Nathan Green**, Ekkehard Beck, Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Adults with Underlying Medical Conditions: Systematic Literature Review and Pairwise Meta-Analysis Using GRADE. Adv Ther (2025). https://doi.org/10.1007/s12325-025-03117-7
 
 ## 2024
