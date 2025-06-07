@@ -139,11 +139,6 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 
 * Climate Change Pascal’s Wager, N. Green, The Guardian 2012 July 3
 
-* RSS sections and groups meeting reports, Medical Section meetings
-    +	The Bradford Hill Memorial Lecture, N Green, 18 April 2019
-    + The Case Fatality Ratio – How can estimating a proportion be complicated? N Green, 5th Dec 2019
-    + Novel advances in Bayesian Health economics, N Green, Sept 2021
-
 * Pierre De Fermat Theorem Google Doodle, N. Green, The Guardian 2011 Aug 17
 
 * A-level Results Science Mathematics, N. Green, The Guardian 2011 Aug 18
@@ -164,6 +159,10 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 
 * `They‘ know where you live, work, eat, shop...-Terrible truths about 21st century privacy, N Green, Guru Magazine, April/May 2013
 
+* RSS sections and groups meeting reports, Medical Section meetings
+    +	The Bradford Hill Memorial Lecture, N Green, 18 April 2019
+    + The Case Fatality Ratio – How can estimating a proportion be complicated? N Green, 5th Dec 2019
+    + Novel advances in Bayesian Health economics, N Green, Sept 2021
 
 # Book reviews
 
