@@ -111,8 +111,9 @@ European Heart Journal - Quality of Care and Clinical Outcomes, DOI: 10.1093/ehj
 
 # Books
 
-* Bayesian Cost-Effectiveness Analysis with the R package BCEA (Use R!), G Baio, A Berardi, A Heath, **N Green** [in review]
-* Decision Trees, **N Green**, P Dixon, E Krijkamp, H Thom, in R in HTA, Eds. G Baio, H Thom [in review]  
+* G Baio, A Berardi, A Heath, **N Green**, Bayesian Cost-Effectiveness Analysis with the R package BCEA (Use R!) https://doi.org/10.1007/978-3-319-55718-2 [in review]
+
+* **Green N**, Dixon P, Krijkamp E, Thom H. Decision Trees. In: Baio G, Thom H, Pechlivanoglou P, editors. R for Health Technology Assessment. Boca Raton, FL: CRC Press; forthcoming 2025. https://doi.org/10.1201/9781003031819
 
 # Newspaper and magazine articles
 
