@@ -12,9 +12,9 @@ author_profile: true
 -->
 
 ## 2025
-* **Green, N.**, Kurt, M., Moshyk, A., Larkin, J. and Baio, G. (2025), A Bayesian Hierarchical Mixture Cure Modelling Framework to Utilize Multiple Survival Datasets for Long-Term Survivorship Estimates: A Case Study From Previously Untreated Metastatic Melanoma. Statistics in Medicine, 44: e70132. https://doi.org/10.1002/sim.70132
+* **Green, N.**, Kurt, M., Moshyk, A., Larkin, J. and Baio, G. (2025), A Bayesian Hierarchical Mixture Cure Modelling Framework to Utilize Multiple Survival Datasets for Long-Term Survivorship Estimates: A Case Study From Previously Untreated Metastatic Melanoma. Statistics in Medicine, 44: e70132. https://doi.org/10.1002/sim.70132 
 
-* **Green N**, Manalan K, Hayama M, et al. Latent tuberculosis infection screening of adult close contacts: a cost-utility analysis. ERJ Open Res 2025; https://doi.org/10.1183/23120541.00818-2024 [in press]
+* **Green N**, Manalan K, Hayama M, et al. Latent tuberculosis infection screening of adult close contacts: a cost-utility analysis. ERJ Open Res 2025 11(3): 00818-2024 https://doi.org/10.1183/23120541.00818-2024
 
 * Xuan Wang, Ankit Pahwa, Mary T. Bausch-Jurken, Anushri Chitkara, Pawana Sharma, Mia Malmenäs, Sonam Vats, Michael Gordon Whitfield, Kira Zhi Hua Lai, Priyadarsini Dasari, Ritu Gupta, Maria Nassim, Nicolas Van de Velde, **Nathan Green**, Ekkehard Beck, Comparative Effectiveness of mRNA-1273 and BNT162b2 COVID-19 Vaccines Among Adults with Underlying Medical Conditions: Systematic Literature Review and Pairwise Meta-Analysis Using GRADE. Adv Ther (2025). https://doi.org/10.1007/s12325-025-03117-7
 
