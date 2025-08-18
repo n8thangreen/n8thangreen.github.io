@@ -7,11 +7,9 @@ author_profile: true
 
 # Journal papers
 
-<!-- 
-* A meta-analysis of prevalence of LVA and its association with SCD, systemic embolization and heart failure, C Maloney, **N Green** et al [in press]
--->
-
 ## 2025
+* Linden, K., **Green, N.**, Muir, A., Malcolmson, J.W., Mohiddin, S.A. and O'Mahony, C. (2025) Size matters. Prevalence and clinical implications of left ventricular apical aneurysms in hypertrophic cardiomyopathy: a systematic review and meta‐analysis, Journal of the American Heart Association, 14(15), doi: 10.1161/JAHA.124.037234.
+
 * **Green, N.**, Kurt, M., Moshyk, A., Larkin, J. and Baio, G. (2025), A Bayesian Hierarchical Mixture Cure Modelling Framework to Utilize Multiple Survival Datasets for Long-Term Survivorship Estimates: A Case Study From Previously Untreated Metastatic Melanoma. Statistics in Medicine, 44: e70132. https://doi.org/10.1002/sim.70132 
 
 * **Green N**, Manalan K, Hayama M, et al. Latent tuberculosis infection screening of adult close contacts: a cost-utility analysis. ERJ Open Res 2025 11(3): 00818-2024 https://doi.org/10.1183/23120541.00818-2024
