@@ -8,7 +8,7 @@ author_profile: true
 * __BCEA__     [![GitHub](../images/mark-github.svg)](https://github.com/n8thangreen/BCEA), [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html)
   * Bayesian Cost Effectiveness Analysis. Given the results of a Bayesian model (possibly based on MCMC) in the form of simulations from the posterior distributions of suitable variables of costs and clinical benefits for two or more interventions, produces a health economic evaluation. Compares one of the interventions (the "reference") to the others ("comparators"). Produces many summary and plots to analyse the results.    
 
-* __blendR__    [![GitHub](../images/mark-github.svg)](https://github.com/StatisticsHealthEconomics/blendR) [CRAN](https://cran.r-project.org/web/packages/blendR/index.html)
+* __blendR__    [![GitHub](../images/mark-github.svg)](https://github.com/StatisticsHealthEconomics/blendR), [CRAN](https://cran.r-project.org/web/packages/blendR/index.html)
   * Create a blended curve from two survival curves, which is particularly useful
           for survival extrapolation in health technology assessment. The main idea is to
           mix a flexible model that fits the observed data well with a parametric model that
@@ -28,6 +28,7 @@ author_profile: true
 
 * __NMA__    [![GitHub](../images/mark-github.svg)](https://github.com/ICON-in-R/NMA)
   * Minimal network meta-analysis with BUGS from R.    
+
 
 
 
