@@ -117,7 +117,7 @@ Grant Reviewing
 
 Journal Reviewing
 ==================
-* BMJ
+* [BMJ](https://bmjopen.bmj.com/pages/thank-you-to-our-reviewers?utm_source=adestra&utm_medium=email&utm_campaign=service_message&utm_content=peer_review&utm_term=landing_page&nbd_source=adestra&nbd=d8aa678c986b8ce565ac5510708300a5fc703af5862893d33d7ef41058ac53ed&uaa_id=d8aa678c986b8ce565ac5510708300a5fc703af5862893d33d7ef41058ac53ed&utm_campaign=%5BService%5D%20January%20Peer%20Reviewers%202025%20-%20List%201&utm_medium=email&utm_source=adestra)
 * Value in Health
 * Medical Decision Making (MDM)
 * Journal of the Royal Society - Interface
