@@ -8,10 +8,11 @@ author_profile: true
 # Journal papers
 
 ## 2026
+* **Green, N.**, & Hawkings, Y. (2026). Estimating the determinants of health literacy for policy prioritisation: a local level case study in Newham, London. BMC Public Health, 26, 649. https://doi.org/10.1186/s12889-025-26067-9
+
 * **Green, N.** (2026). Population-Adjusted Indirect Treatment Comparison with the outstandR Package in R. arXiv preprint arXiv:2601.07532. https://doi.org/10.48550/arXiv.2601.07532
 
 ## 2025
-* **N Green**, Y-R Hawkings (2025) Determinants of Health Literacy and their Impact on Residents in Newham, London, medRxiv 2025.08.26.25334435; doi: https://doi.org/10.1101/2025.08.26.25334435
 
 * Linden, K., **Green, N.**, Muir, A., Malcolmson, J.W., Mohiddin, S.A. and O'Mahony, C. (2025) Size matters. Prevalence and clinical implications of left ventricular apical aneurysms in hypertrophic cardiomyopathy: a systematic review and meta‐analysis, Journal of the American Heart Association, 14(15), doi: 10.1161/JAHA.124.037234.
 
