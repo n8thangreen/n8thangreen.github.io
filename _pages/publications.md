@@ -11,6 +11,7 @@ author_profile: true
 
 * **Green, N.**, & Hawkings, Y. (2026). Estimating the determinants of health literacy for policy prioritisation: a local level case study in Newham, London. *BMC Public Health*, 26, 649. [https://doi.org/10.1186/s12889-025-26067-9](https://doi.org/10.1186/s12889-025-26067-9)
 * **Green, N.** (2026). Population-Adjusted Indirect Treatment Comparison with the outstandR Package in R. *arXiv preprint arXiv:2601.07532*. [https://doi.org/10.48550/arXiv.2601.07532](https://doi.org/10.48550/arXiv.2601.07532)
+* Yeo JH, Lambo D, **Green N**, *et al* (2026). Increased risk of gestational diabetes in women with IBD: pregnancy outcomes for women with IBD from a multidisciplinary clinic at a tertiary centre. *Frontline Gastroenterology* Published Online First: 22 April 2026. doi: 10.1136/flgastro-2026-103630
 
 ## 2025
 
