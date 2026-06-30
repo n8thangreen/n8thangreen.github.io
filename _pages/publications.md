@@ -8,6 +8,7 @@ author_profile: true
 # Journal papers
 
 * Rotous, I., Hawkings, Y. R., & **Green, N.** (n.d.). Moving Beyond the 'Pro' or 'Anti' Binary: Insights into Vaccination Attitudes and Behaviour, with a Case Study from a London, UK Survey. [in submission]
+* Marchitto, A., **Green, N.**, & Duval, L. (n.d.). Does social exclusion influence health disparities? Comparative analysis of Roma and non-Roma communities in the Balkans. [in submission]
 
 ## 2026
 
