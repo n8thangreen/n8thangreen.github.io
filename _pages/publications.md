@@ -7,6 +7,8 @@ author_profile: true
 
 # Journal papers
 
+* Rotous, I., Hawkings, Y. R., & **Green, N.** (n.d.). Moving Beyond the 'Pro' or 'Anti' Binary: Insights into Vaccination Attitudes and Behaviour, with a Case Study from a London, UK Survey. [in submission]
+
 ## 2026
 
 * Su, X., Ambler, G., **Green, N.**, & Pavlou, M. (2026). The use of variable selection in clinical prediction modelling for binary outcomes: a systematic review. *Journal of Clinical Epidemiology*. [https://doi.org/10.1016/j.jclinepi.2026.112371](https://doi.org/10.1016/j.jclinepi.2026.112371)
