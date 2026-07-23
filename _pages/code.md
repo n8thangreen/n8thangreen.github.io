@@ -29,6 +29,12 @@ author_profile: true
 * __NMA__    [![GitHub](../images/mark-github.svg)](https://github.com/ICON-in-R/NMA)
   * Minimal network meta-analysis with BUGS from R.    
 
+* __testhta__    [![GitHub](../images/mark-github.svg)](https://github.com/validate-hta/testhta)
+  * A Unit Testing and Verification Framework for Health Technology Assessment (HTA) Models.  
+
+* __rocletCHEERS__    [![GitHub](../images/mark-github.svg)](https://github.com/validate-hta/rocletCHEERS)
+  * Automatically extract, track, and generate reporting compliance artifacts for Health Economic Evaluation models using roxygen2 and the CHEERS 2022 checklist standard.
+
 
 
 
