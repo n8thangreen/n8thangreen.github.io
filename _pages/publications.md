@@ -9,7 +9,8 @@ author_profile: true
 
 * Rotous, I., Hawkings, Y. R., & **Green, N.** (n.d.). Moving Beyond the 'Pro' or 'Anti' Binary: Insights into Vaccination Attitudes and Behaviour, with a Case Study from a London, UK Survey. [in submission]
 * Marchitto, A., **Green, N.**, & Duval, L. (n.d.). Does social exclusion influence health disparities? Comparative analysis of Roma and non-Roma communities in the Balkans. [in submission]
-* Application of Machine Learning Algorithms on Whole Brain Connectivity Resting-State fMRI to Phenotype Superagers, Neuroradiology [in submission]
+* Application of Machine Learning Algorithms on Whole Brain Connectivity Resting-State fMRI to Phenotype Superagers, *Neuroradiology* [in submission]
+* **Green, N.**, Gallardo, D., Lamrock F., Automated Verification for Health Economic Models in R: A Hands-On Tutorial [in submission]
 
 ## 2026
 
