@@ -114,6 +114,7 @@ author_profile: true
 # Newspaper and magazine articles
 
 * **Green, N.** (2023, Feb 10). Why your data viz needs alt text. *Significance*, 20(1):38-39. [link](https://academic.oup.com/jrssig/article/20/1/38/7034177)
+* **Green, N.** (2020, May 19). Comparing and assessing Covid-19 tests. *Significance Magazine*. [https://significancemagazine.com/comparing-and-assessing-covid-19-tests/](https://significancemagazine.com/comparing-and-assessing-covid-19-tests/)
 * **Green, N.** (2012, Sep 26). Gas! Gas! Gas! Hazard Management of a Covert Chemical Release on the Battlefield. *Significance online (Royal Statistical Society)*.
 * **Green, N.** (2011, Dec 2). Statistics Series Introduction. *The Guardian*.
 * **Green, N.** (2011, Dec 2). Biased Sample Statistics. *The Guardian*.
