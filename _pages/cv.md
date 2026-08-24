@@ -65,6 +65,7 @@ Grants
 
 Awarded
 --------
+* 2025 EPSRC Impact Acceleration / UCL Knowledge Exchange: A Health Literary Dashboard for Local Level Decision Making
 * 2024 'Hack4HTA: Health technology assessment hackathon in R', £13,350, International Centre for Mathematical Sciences (ICMS) [strategic workshops](https://www.icms.org.uk/funding-opportunities/strategic-workshops), project lead
 * 2024 Versus Arthritis Early Detection and Targeted Treatments 2024, ‘BAR-JDM: Baricitinib in Juvenile Dermatomyositis: A multi-centre open label, randomised, controlled, superiority trial’, project team
 * 2024 Carnegie Trust Research Incentive Grant, £13,893, 'Characterisation of Persistent Organic Pollutants in a high-latitude Scottish blanket peat bog', Co-PI
