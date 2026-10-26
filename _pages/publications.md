@@ -14,6 +14,7 @@ author_profile: true
 
 ## 2026
 
+* McClaughlin, E., Vilar-Lluch, S., Adolphs, S., Weil, L., Hawkings, Y., **Green, N.**, Odling-Smee, J., & Davies, R. (2026). *The 'Why We Get Vaccinated' immunisation campaign: lessons for those designing, delivering and commissioning vaccination communications*. University of Nottingham. https://doi.datacite.org/dois/10.25878%2Frajs-vn52
 * Su, X., Ambler, G., **Green, N.**, & Pavlou, M. (2026). The use of variable selection in clinical prediction modelling for binary outcomes: a systematic review. *Journal of Clinical Epidemiology*. [https://doi.org/10.1016/j.jclinepi.2026.112371](https://doi.org/10.1016/j.jclinepi.2026.112371)
 * **Green, N.**, & Hawkings, Y. (2026). Estimating the determinants of health literacy for policy prioritisation: a local level case study in Newham, London. *BMC Public Health*, 26, 649. [https://doi.org/10.1186/s12889-025-26067-9](https://doi.org/10.1186/s12889-025-26067-9)
 * **Green, N.** (2026). Population-Adjusted Indirect Treatment Comparison with the outstandR Package in R. *arXiv preprint arXiv:2601.07532*. [https://doi.org/10.48550/arXiv.2601.07532](https://doi.org/10.48550/arXiv.2601.07532)
